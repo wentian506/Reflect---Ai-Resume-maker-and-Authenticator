@@ -1,0 +1,6 @@
+{
+  "name": "reflect-ai-resume",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
